@@ -1,6 +1,7 @@
 aleo smart contract
 fkabfkbfak
 fix
+saf
 نصب پیش نیازها 
 ------------------------------------------------------------------
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
